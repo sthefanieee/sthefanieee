@@ -1,24 +1,36 @@
-<html>
-  <p align="center">
+
+  <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header"/>
-  </p>
+  </div>
+	
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=27&pause=1000&color=FFFFFF&background=FFC0CB&center=verdadeiro&vCenter=falso&repeat=verdadeiro&random=falso&width=434&height=45&lines=+++++++++++++++++Olá%2C+sou+Sthefanie+Santana!+🩷" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">Bem vindo(a) ao meu perfil GitHub! 🗯️</h3> 
+	
+<h3 align="center">Bem vindo(a) ao meu perfil GitHub! 🗯️</h3>
+<div align="center">
+<text>🩷🗯️ Pronomes: Ela/dela
+🩷🗯️ E-mail para contato: sthefaniesantana1306@gmail.com</text></div><br></br>
+
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sthefanie-santana-de-jesus-41ab60229/)
+
+</div>
+
 <br></br> <img src='https://github.com/sthefanieee/sthefanieee/assets/139658881/a20eea2b-6bb3-478f-b5ba-b1cbdd575707'>
 
 
-<p align="center">
+
+<div align="left">
   <br></br><text>Sou estudante de Artes Visuais, mas formada como Desenvolvedora Full Stack pelo Programadores do Amanhã. Sempre tive interesse em tecnologia e arte, mas nunca me aprofundei tanto em TI. Minha jornada de fato com a tecnologia começou em 2020, quando fiz um curso básico de TI pelo Senai. Em 2023, tive a oportunidade de fazer parte do Programadores do Amanhã e agora, em 2024, estou com meu certificado em mãos e muito conhecimento para compartilhar por onde passo.
 
-Como todo programador, continuo estudando constantemente, aprofundando-me nas linguagens que já conheço e explorando novas. Meu objetivo é focar em front-end e no desenvolvimento de jogos para meninas! 🩰🐇🎨🎮
-
- </text><br></br>
-</p>
-
-
-<h2>🌸 Tecnologias que utilizo e/ou estou estudando: </h2>
+Como todo programador, continuo estudando constantemente, aprofundando-me nas linguagens que já conheço e explorando novas. Meu objetivo é focar em front-end e no desenvolvimento de jogos para meninas! 🩰🐇🎨🎮</text><br></br>
+</div>
+<div align="center">
+<img src="https://github.com/sthefanieee/sthefanieee/assets/139658881/c86caa4a-2cb7-4326-af6f-88bdd135628d" width="100" height="100" alt="imagem">
+</div><br></br>
+<h2>🌸🗯️ Tecnologias que utilizo e/ou estou estudando: </h2>
 <br></br><div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
@@ -34,9 +46,22 @@ Como todo programador, continuo estudando constantemente, aprofundando-me nas li
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 </div><br></br>
 
-<h2>🌸 Aqui: </h2>
 
 
-</html>
+<h2>🌸🗯️ Gráficos & Estatísticas: </h2>
+
+<div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sthefanieee&bg_color=ffffff&color=ffb8cd&line=ffadd5&point=ff6ba6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
+<div align="center">
+ 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sthefanieee?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=sunset) <br></br>
+
+</div>
+
+
+
